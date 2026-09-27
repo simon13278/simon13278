@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Archie K. Gonwoe Jr.</h1>
+<h1 align="center">Hi 👋, I'm Izabayo Simeon</h1>
 
-<h3 align="center">Software Engineering Student at UNILAK | Full-Stack Developer | AI & Cybersecurity Enthusiast</h3>
+<h3 align="center">Software Engineering Student at UNILAK | Aspiring Software Engineer | Technology & Innovation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Aspiring+Software+Engineer;Web+Development+Enthusiast;Programming+Enthusiast;Technology+%26+Innovation+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Archie-ctr&label=Profile%20views&color=0e75b6&style=flat" alt="Archie-ctr" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/Archie-ctr">
-    <img src="https://img.shields.io/github/followers/Archie-ctr?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -23,69 +23,47 @@
 ## 👨‍💻 About Me
 
 * 🎓 I'm a **Software Engineering student at the University of Lay Adventist of Kigali (UNILAK)**
-* 💻 I'm a **Full-Stack Web Developer**
-* 🤖 I'm interested in **Artificial Intelligence & Machine Learning**
-* 🔐 I'm interested in **Cybersecurity & Secure Software Development**
-* 🐍 I enjoy developing applications with **Python**
-* 🌐 I build **web-based information systems and management platforms**
-* 🗄️ I work with **databases, backend systems and APIs**
-* 🧪 I'm interested in **Software Testing, Verification & Validation**
-* 🔄 I use **Git, GitHub and CI/CD** in software development
-* ⚙️ I'm interested in **automation and intelligent systems**
-* 🌍 I enjoy solving **real-world problems through technology**
+* 💻 I'm working toward becoming a **professional Software Engineer**
+* 🌐 I'm interested in **Web Development and Software Applications**
+* 🐍 I have experience with **Python**
+* ☕ I have experience with **Java**
+* 🟨 I'm learning and working with **JavaScript**
+* 🎨 I work with **HTML5, CSS3 and Bootstrap**
+* 💡 I'm interested in **Technology and Innovation**
+* 🗄️ I'm interested in **Database Management and Software Systems**
+* 🛠️ I have practical experience in **IT technical support**
+* 🌍 I enjoy using technology to solve **real-world problems**
+* 📚 I'm continuously developing my **programming and software engineering skills**
 
 ---
 
 ## 💬 Ask Me About
 
 * 🐍 Python
-* 🌐 Full-Stack Web Development
-* 💻 PHP
+* ☕ Java
 * 🟨 JavaScript
-* 🗄️ MySQL & Database Design
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🔐 Cybersecurity
-* 🧪 Software Testing
-* 🔄 Git & GitHub
-* ⚙️ Automation
-* 🔌 REST APIs
-* 🏫 School Management Systems
-* 🏥 Healthcare Information Systems
-* 💼 Business Management Systems
+* 🌐 HTML5
+* 🎨 CSS3
+* 🅱️ Bootstrap
+* 💻 Web Development
+* 🗄️ Database Management
+* 🖥️ IT Support
+* 🎨 Graphic Design
+* 📱 Digital Content Creation
+* 💡 Technology & Innovation
 
 ---
 
-<h3 align="left">🌐 Connect With Me:</h3>
+## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/Archie-ctr" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Archie-ctr" height="30" width="40" />
+<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 
-<a href="https://archieportfolio.tech/" target="_blank">
-<img align="center" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Portfolio" height="30" width="40" />
-</a>
-
-<a href="https://www.freelancer.com/u/ArchieTech1" target="_blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="Freelancer" height="30" width="40" />
-</a>
-
-<a href="https://www.fiverr.com/archie_codes" target="_blank">
-<img align="center" src="https://cdn.simpleicons.org/fiverr/1DBF73" alt="Fiverr - archie_codes" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/share/1HE6M661Cu/?mibextid=wwXIfrh" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/archiekgonwoejr/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-
-<a href="https://x.com/archiegonwoe" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+<a href="mailto:izabayosimeon1@gmail.com">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
 </a>
 
 </p>
@@ -102,16 +80,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
 </p>
@@ -130,270 +104,105 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
 </p>
 
 ---
 
-<h3 align="left">3. Backend Development:</h3>
+<h3 align="left">3. Design & Technical Tools:</h3>
 
 <p align="left">
 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="left">4. Databases:</h3>
+# 💼 What I Work On
 
-<p align="left">
+### 🌐 Web & Software Development
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+* Web-based applications
+* Frontend development
+* Programming projects
+* Database-related applications
+* Software engineering academic projects
+* Practical information systems
 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
-</a>
+### 🖥️ Information Technology
 
-</p>
+* Technical support
+* System installation and upgrades
+* IT troubleshooting
+* IT infrastructure support
+* Basic security practices
 
----
+My CV includes an IT internship where I provided technical support, participated in system upgrades and installations, and worked with an IT team on security measures.
 
-<h3 align="left">5. AI & Machine Learning:</h3>
+### 🎨 Design & Creativity
 
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-
-</p>
+* Graphic design
+* Digital content creation
+* Architectural design
+* 3D modelling
+* Technical drawing
+* Digital marketing
 
 ---
 
-<h3 align="left">6. Software Testing & Quality:</h3>
+# 🚀 Featured Experience
 
-<p align="left">
+### 🖥️ IT Internship
 
-<a href="https://pytest.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/>
-</a>
+**Akagera International School TV – Rwanda**
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+Worked on technical support, system upgrades and installations, and IT security-related activities.
 
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-<img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="40" height="40"/>
-</a>
-
-</p>
+**Skills:** Technical Support · Problem Solving · Communication · IT Systems
 
 ---
 
-<h3 align="left">7. Development Tools:</h3>
+### 🎨 Creative Design & Marketing
 
-<p align="left">
+**Tech Care Rwanda – Rwanda**
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+Worked on marketing materials, social media graphics, content creation, and market research.
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
-</p>
+**Skills:** Graphic Design · Digital Marketing · Content Creation · Market Research
 
 ---
 
-# 💼 What I Build
+### 📱 Social Media & Content Creation
 
-### 🌐 Web Applications
+**AHAVA & Umugenzi TV YouTube Channels – Kigali, Rwanda**
 
-* Full-Stack Web Applications
-* Business Management Systems
-* School Management Systems
-* Healthcare Management Systems
-* Pharmacy Management Systems
-* Administrative Dashboards
-* Authentication Systems
-* Role-Based Access Control
-* REST APIs
-* Database-Driven Applications
+Created digital content, managed social media activities, and monitored audience engagement and performance.
 
-### 🤖 Artificial Intelligence
-
-* AI-powered applications
-* Machine Learning systems
-* Intelligent automation
-* AI assistants
-* Predictive analytics
-* AI-powered decision support
-* Document analysis
-* Recommendation systems
-
-### 🧪 Software Engineering
-
-* Unit Testing
-* Integration Testing
-* Automated Testing
-* Software Verification & Validation
-* CI/CD
-* API Testing
-* Debugging
-* Code Quality
-* Secure Software Development
+**Skills:** Content Creation · Social Media Management · Data Analysis · Strategic Planning
 
 ---
 
-# 🚀 Featured Projects
+### 🏗️ Architectural Design
 
-### 🏫 Karn High School
+**Right Lamp Shine Group Limited – Rwanda**
 
-A school management project focused on digitizing school administration and educational operations.
+Worked on architectural concepts, technical drawings, 3D models, and design presentations using tools such as AutoCAD, ArchiCAD, Unreal Engine, Blender, and SketchUp.
 
-**Technologies:** PHP · MySQL · JavaScript
-
----
-
-### 🎓 Alumni Organization
-
-A web-based organization project designed to support alumni-related management and activities.
-
-**Technologies:** PHP · Web Technologies
-
----
-
-### 🏫 Multiple School System
-
-A multi-school management project designed to support the administration of multiple educational institutions.
-
-**Technologies:** Web Development · Database Systems
-
----
-
-### 🌐 Smart Digital Solutions
-
-A digital solutions project focused on providing technology-based solutions for organizations and businesses.
-
-**Technologies:** Web Development
-
----
-
-### 🧪 Automated Software Verification & Testing
-
-Software engineering work focused on automated testing, verification, quality assurance and CI/CD workflows.
-
-**Technologies:** Python · Pytest · GitHub Actions
-
----
-
-# 🏥 Healthcare Technology
-
-I'm interested in building secure digital healthcare systems that can help organizations manage their operations and information.
-
-Areas of interest include:
-
-* Hospital Management
-* Clinic Management
-* Pharmacy Management
-* Laboratory Management
-* Patient Management
-* Healthcare Data
-* Insurance Integration
-* Healthcare Analytics
-* Digital Health Platforms
-
----
-
-# 🏫 Education Technology
-
-I'm also interested in developing technology that improves education administration.
-
-Areas include:
-
-* Student Management
-* Teacher Management
-* Attendance
-* Classes & Subjects
-* Examination Management
-* Finance
-* Parent Management
-* School Administration
-* Multi-School Management
-
----
-
-# 🔐 Cybersecurity
-
-I'm continuously developing my knowledge in cybersecurity and secure software engineering.
-
-Areas of interest:
-
-* Authentication
-* Authorization
-* Role-Based Access Control
-* Secure APIs
-* Data Protection
-* Database Security
-* Web Application Security
-* Security Testing
-* Defensive Programming
-
----
-
-# 🏢 Organizations
-
-### Young Devs Ltd
-
-I'm connected with **Young Devs Ltd**, a technology-focused organization working in areas including:
-
-* Software Development
-* Web Development
-* Digital Solutions
-* Software Training
-* Technology Services
-* Business Solutions
+**Skills:** Design · 3D Modelling · Problem Solving · Communication
 
 ---
 
@@ -403,64 +212,102 @@ I'm connected with **Young Devs Ltd**, a technology-focused organization working
 
 **University of Lay Adventist of Kigali (UNILAK)**
 
-My academic interests include:
+Expected Graduation: **2028**
+
+Areas of development include:
 
 * Software Engineering
-* Artificial Intelligence
-* Machine Learning
-* Cybersecurity
+* Programming
+* Web Development
 * Database Systems
-* Software Testing
-* System Architecture
-* Web Technologies
+* Information Technology
+* System Development
+* Technology & Innovation
 
 ---
 
-# 🌱 Open Source
+### Advanced TVET Certificate V in Masonry
 
-I believe in learning by:
+**APENA School – Eastern Province, Rwanda**
 
-**Building • Testing • Collaborating • Sharing**
+2019 – 2022
 
-My GitHub repositories contain software projects, academic work, experiments, management systems, web applications, testing projects and other practical development work.
+Key courses included:
 
-I'm interested in collaborating with developers, organizations, students and open-source communities.
+* Masonry Basic Drawing
+* Concrete Technology
+* Cost Estimation
+* Elevation and Scaffolding Operations
+* Tile Works
+* Mathematics
+
+---
+
+# 🧰 Technical Skills
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+
+</p>
+
+---
+
+# 🌱 Interests
+
+* 💻 Software Engineering
+* 🌐 Web Development
+* 💡 Technology & Innovation
+* 🎨 Art & Design
+* 🏗️ Architectural Design
+* 📚 Learning & Personal Development
+* 🌍 Travel
+* 🤝 Community Involvement
+* 🏀 Basketball
+* 📖 Reading
 
 ---
 
 # 🎯 Career Goals
 
-My long-term goal is to become a highly skilled:
+My goal is to develop into a skilled **Software Engineer** and build practical software solutions that address real-world problems.
 
-### 💻 Software Engineer & AI Developer
+I am interested in growing my skills in:
 
-with specialization in:
+* 💻 Software Development
+* 🌐 Web Applications
+* 🗄️ Database Systems
+* 🤖 Emerging Technologies
+* 🔐 IT & Cybersecurity
+* ⚙️ System Development
+* 🚀 Technology Innovation
 
-* Artificial Intelligence
-* Machine Learning
-* Full-Stack Development
-* Automation
-* Secure Software
-* Scalable Applications
-* Healthcare Technology
-* Education Technology
-
-I'm interested in working on challenging projects where I can learn, contribute and create meaningful technology solutions.
+I am continuously learning, building projects, and gaining practical experience to prepare for a career in software engineering.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archie-ctr&show_icons=true&theme=default&hide_border=true" alt="Archie's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archie-ctr&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archie-ctr&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -468,26 +315,23 @@ I'm interested in working on challenging projects where I can learn, contribute 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archie-ctr&theme=minimal&hide_border=true" alt="Archie's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=minimal&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 # 🤝 Let's Work Together
 
-I'm open to:
+I'm interested in opportunities involving:
 
-* 💼 Software Development Opportunities
-* 💻 Freelance Projects
-* 🤖 AI & Machine Learning Projects
-* 🌐 Full-Stack Development
-* 🏥 Healthcare Technology
-* 🏫 Education Technology
-* ⚙️ Automation Projects
-* 🧪 Software Testing & CI/CD
-* 🔐 Cybersecurity Projects
-* 🌱 Open-Source Collaboration
-* 🚀 Startup & Technology Projects
+* 💼 Software Engineering
+* 💻 Web Development
+* 🗄️ Database Systems
+* 🖥️ IT Projects
+* 💡 Technology & Innovation
+* 🎨 Digital Design
+* 🚀 Practical Software Projects
+* 🌱 Learning & Open-Source Collaboration
 
 ---
 
@@ -495,23 +339,11 @@ I'm open to:
 
 <p align="left">
 
-<a href="https://archieportfolio.tech/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-archieportfolio.tech-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-YOUR--GITHUB--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/Archie-ctr" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Archie--ctr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.freelancer.com/u/ArchieTech1" target="_blank">
-<img src="https://img.shields.io/badge/Freelancer-ArchieTech1-29b2fe?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/>
-</a>
-
-<a href="https://www.fiverr.com/archie_codes" target="_blank">
-<img src="https://img.shields.io/badge/Fiverr-archie__codes-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-</a>
-
-<a href="mailto:archiekgonwoe@gmail.com">
+<a href="mailto:izabayosimeon1@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -519,7 +351,7 @@ I'm open to:
 
 ---
 
-<h3 align="center">⚡ Build. Learn. Collaborate. Innovate. 🚀</h3>
+<h3 align="center">⚡ Learn. Build. Improve. Innovate. 🚀</h3>
 
 <p align="center">
   <b>Thanks for visiting my GitHub profile!</b>
