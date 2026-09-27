@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student at UNILAK | Aspiring Software Engineer | Technology & Innovation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Aspiring+Software+Engineer;Web+Development+Enthusiast;Programming+Enthusiast;Technology+%26+Innovation+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
+  <img src="https://github.com/simon13278/simon13278/blob/main/1.jpg" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
