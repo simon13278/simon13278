@@ -9,12 +9,12 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=simon13278&label=Profile%20views&color=0e75b6&style=flat" alt="simon13278" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <a href="https://github.com/simon13278">
+    <img src="https://img.shields.io/github/followers/simon13278?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -25,15 +25,15 @@
 * 🎓 I'm a **Software Engineering student at the University of Lay Adventist of Kigali (UNILAK)**
 * 💻 I'm working toward becoming a **professional Software Engineer**
 * 🌐 I'm interested in **Web Development and Software Applications**
-* 🐍 I have experience with **Python**
-* ☕ I have experience with **Java**
-* 🟨 I'm learning and working with **JavaScript**
+* 🐍 I work with **Python**
+* ☕ I work with **Java**
+* 🟨 I'm learning and developing with **JavaScript**
 * 🎨 I work with **HTML5, CSS3 and Bootstrap**
+* 🗄️ I'm interested in **Database Management and Information Systems**
+* 🖥️ I have practical experience in **IT technical support**
 * 💡 I'm interested in **Technology and Innovation**
-* 🗄️ I'm interested in **Database Management and Software Systems**
-* 🛠️ I have practical experience in **IT technical support**
 * 🌍 I enjoy using technology to solve **real-world problems**
-* 📚 I'm continuously developing my **programming and software engineering skills**
+* 📚 I'm continuously improving my **programming and software engineering skills**
 
 ---
 
@@ -58,8 +58,8 @@
 
 <p align="left">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+<a href="https://github.com/simon13278" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="simon13278" height="30" width="40" />
 </a>
 
 <a href="mailto:izabayosimeon1@gmail.com">
@@ -77,15 +77,15 @@
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 
 </p>
@@ -97,35 +97,55 @@
 <p align="left">
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="left">3. Design & Technical Tools:</h3>
+<h3 align="left">3. Development Tools:</h3>
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="left">4. Design & Creative Technologies:</h3>
 
 <p align="left">
 
 <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
 </a>
 
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
 </a>
 
 </p>
@@ -140,69 +160,67 @@
 * Frontend development
 * Programming projects
 * Database-related applications
-* Software engineering academic projects
-* Practical information systems
+* Software engineering projects
+* Information management systems
 
 ### 🖥️ Information Technology
 
 * Technical support
-* System installation and upgrades
+* System installation
+* System upgrades
 * IT troubleshooting
-* IT infrastructure support
-* Basic security practices
+* Basic IT security practices
 
-My CV includes an IT internship where I provided technical support, participated in system upgrades and installations, and worked with an IT team on security measures.
-
-### 🎨 Design & Creativity
+### 🎨 Design & Digital Media
 
 * Graphic design
 * Digital content creation
+* Social media content
 * Architectural design
 * 3D modelling
 * Technical drawing
-* Digital marketing
 
 ---
 
 # 🚀 Featured Experience
 
-### 🖥️ IT Internship
+### 🖥️ IT Intern
 
 **Akagera International School TV – Rwanda**
 
-Worked on technical support, system upgrades and installations, and IT security-related activities.
+Provided technical support to staff and students, participated in system upgrades and installations, and worked with the IT team on security measures.
 
-**Skills:** Technical Support · Problem Solving · Communication · IT Systems
+**Skills:** Technical Support · Problem Solving · Communication
 
 ---
 
-### 🎨 Creative Design & Marketing
+### 🎨 Creative Designer & Marketing Intern
 
 **Tech Care Rwanda – Rwanda**
 
-Worked on marketing materials, social media graphics, content creation, and market research.
+Created marketing materials, social media graphics and digital content while supporting marketing campaigns and market research.
 
 **Skills:** Graphic Design · Digital Marketing · Content Creation · Market Research
 
 ---
 
-### 📱 Social Media & Content Creation
+### 📱 Social Media Manager & Content Creator
 
-**AHAVA & Umugenzi TV YouTube Channels – Kigali, Rwanda**
+**AHAVA & Umugenzi TV – Kigali, Rwanda**
 
-Created digital content, managed social media activities, and monitored audience engagement and performance.
+Created digital content, managed social media activities and monitored performance to improve audience engagement.
 
 **Skills:** Content Creation · Social Media Management · Data Analysis · Strategic Planning
 
 ---
 
-### 🏗️ Architectural Design
+### 🏗️ Architectural Designer & Innovator
 
 **Right Lamp Shine Group Limited – Rwanda**
 
-Worked on architectural concepts, technical drawings, 3D models, and design presentations using tools such as AutoCAD, ArchiCAD, Unreal Engine, Blender, and SketchUp.
+Worked on architectural concepts, drawings, 3D models and design presentations using AutoCAD, ArchiCAD, Unreal Engine, Blender and SketchUp.
 
-**Skills:** Design · 3D Modelling · Problem Solving · Communication
+**Skills:** Architectural Design · 3D Modelling · Problem Solving · Communication
 
 ---
 
@@ -214,7 +232,7 @@ Worked on architectural concepts, technical drawings, 3D models, and design pres
 
 Expected Graduation: **2028**
 
-Areas of development include:
+Current areas of development:
 
 * Software Engineering
 * Programming
@@ -230,9 +248,9 @@ Areas of development include:
 
 **APENA School – Eastern Province, Rwanda**
 
-2019 – 2022
+**2019 – 2022**
 
-Key courses included:
+Key courses:
 
 * Masonry Basic Drawing
 * Concrete Technology
@@ -245,21 +263,16 @@ Key courses included:
 
 # 🧰 Technical Skills
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-
-</p>
+| Area          | Skills                              |
+| ------------- | ----------------------------------- |
+| Programming   | Python · Java · JavaScript          |
+| Frontend      | HTML5 · CSS3 · Bootstrap            |
+| Development   | Git · GitHub · VS Code              |
+| Databases     | Database Management                 |
+| IT            | Technical Support · Troubleshooting |
+| Design        | AutoCAD · ArchiCAD · SketchUp       |
+| Creative      | Photoshop · Graphic Design          |
+| Digital Media | Content Creation · Social Media     |
 
 ---
 
@@ -280,34 +293,34 @@ Key courses included:
 
 # 🎯 Career Goals
 
-My goal is to develop into a skilled **Software Engineer** and build practical software solutions that address real-world problems.
+My goal is to become a skilled **Software Engineer** and build practical software solutions that address real-world problems.
 
-I am interested in growing my skills in:
+I'm continuously developing my skills in:
 
 * 💻 Software Development
 * 🌐 Web Applications
 * 🗄️ Database Systems
-* 🤖 Emerging Technologies
 * 🔐 IT & Cybersecurity
 * ⚙️ System Development
+* 🤖 Emerging Technologies
 * 🚀 Technology Innovation
 
-I am continuously learning, building projects, and gaining practical experience to prepare for a career in software engineering.
+My focus is on **learning, building practical projects, gaining experience and becoming a strong software engineering professional.**
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simon13278&show_icons=true&theme=default&hide_border=true" alt="Simon GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon13278&layout=compact&hide_border=true&theme=default" alt="Simon Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simon13278&theme=default&hide_border=true" alt="Simon GitHub Streak" />
 </p>
 
 ---
@@ -315,7 +328,7 @@ I am continuously learning, building projects, and gaining practical experience 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=minimal&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simon13278&theme=minimal&hide_border=true" alt="Simon GitHub Activity Graph" />
 </p>
 
 ---
@@ -330,7 +343,7 @@ I'm interested in opportunities involving:
 * 🖥️ IT Projects
 * 💡 Technology & Innovation
 * 🎨 Digital Design
-* 🚀 Practical Software Projects
+* 🚀 Software Projects
 * 🌱 Learning & Open-Source Collaboration
 
 ---
@@ -339,8 +352,8 @@ I'm interested in opportunities involving:
 
 <p align="left">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-YOUR--GITHUB--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/simon13278" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-simon13278-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="mailto:izabayosimeon1@gmail.com">
