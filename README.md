@@ -53,8 +53,45 @@
 * 💡 Technology & Innovation
 
 ---
-
 ## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/simon13278" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="simon13278" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/izabayo-simeon-9b37b7308/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Izabayo Simeon LinkedIn" height="30" width="40" />
+</a>
+
+<a href="mailto:izabayosimeon1@gmail.com">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/gmail.svg" alt="Email" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+<p align="left">
+
+<a href="https://github.com/simon13278" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-simon13278-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/izabayo-simeon-9b37b7308/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Izabayo%20Simeon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:izabayosimeon1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+
 
 <p align="left">
 
