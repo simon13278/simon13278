@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineering Student at UNILAK | Aspiring Software Engineer | Technology & Innovation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/simon13278/simon13278/blob/main/1.jpg" />
+  <img src="" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/simon13278/simon13278/blob/main/1.jpg">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=simon13278&label=Profile%20views&color=0e75b6&style=flat" alt="simon13278" />
